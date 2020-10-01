@@ -1,0 +1,69 @@
+td {
+    width: 70px;
+    text-align: center;
+    font-family: Impact;
+    font-size: large;
+}
+
+th {
+    font-size: 25px;
+    color: brown;
+}
+
+table {
+    position: absolute;
+    top: 20px;
+    left: 350px;
+    background: white;
+    border: 1px;
+    width: 700px;
+    height: 100px;
+}
+
+#button1 {
+    background-color: chartreuse;
+    -webkit-border-radius: 10px;
+    border-radius: 10px;
+    border: none;
+    color: #FFFFFF;
+    cursor: pointer;
+    display: inline-block;
+    font-family: Arial;
+    font-size: 20px;
+    padding: 5px 10px;
+    text-align: center;
+    text-decoration: none;
+    height: 50px;
+    position: absolute;
+    top: 550px;
+    left: 600px;
+}
+
+#button2 {
+    position: absolute;
+    top: 500px;
+    left: 780px;
+}
+span {
+    font-family: "Times New Roman";
+    font-size: 15px;
+}
+#img1 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 200px;
+    height: 200px;
+}
+#img2 {
+    position: absolute;
+    top: 100px;
+    left: 1050px;
+}
+
+#nhapso {
+    height: 50px;
+    position: absolute;
+    top: 485px;
+    left: 620px;
+}

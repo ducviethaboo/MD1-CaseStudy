@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9d76f925-4eb6-4cb9-8c03-66af1c2f1abd" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/case-modul-1/css.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/case-modul-1/js.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/case-modul-1/media/haha.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/case-modul-1/media/nhac.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/case-modul-1/media/soicau.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/case-modul-1/media/thantai1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/case-modul-1/media/thantai2.gif" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1iAf1DtG4zGJewpawlCMqR2dUra" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/case-modul-1" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/case-modul-1/media" />
+      <recent name="$PROJECT_DIR$/media" />
+      <recent name="$PROJECT_DIR$/demo" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9d76f925-4eb6-4cb9-8c03-66af1c2f1abd" name="Default Changelist" comment="" />
+      <created>1601355100093</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601355100093</updated>
+      <workItem from="1601355101240" duration="10226000" />
+      <workItem from="1601389682366" duration="3421000" />
+      <workItem from="1601426285545" duration="19344000" />
+      <workItem from="1601451697427" duration="9126000" />
+      <workItem from="1601478423990" duration="6294000" />
+      <workItem from="1601514190303" duration="24137000" />
+      <workItem from="1601545207839" duration="5000" />
+      <workItem from="1601545626621" duration="2067000" />
+      <workItem from="1601555913543" duration="412000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="143" y="28" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1601371236814">
+      <screen x="0" y="0" width="1366" height="718" />
+    </state>
+    <state x="143" y="28" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.718@0.0.1366.718" timestamp="1601371236814" />
+    <state x="352" y="177" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1601523083465">
+      <screen x="0" y="0" width="1366" height="718" />
+    </state>
+    <state x="352" y="177" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.718@0.0.1366.718" timestamp="1601523083465" />
+    <state x="119" y="66" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1601535417340">
+      <screen x="0" y="22" width="1366" height="696" />
+    </state>
+    <state x="119" y="45" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.718@0.0.1366.718" timestamp="1601522970083" />
+    <state x="119" y="66" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.22.1366.696@0.22.1366.696" timestamp="1601535417340" />
+    <state x="264" y="0" width="838" height="1032" key="search.everywhere.popup" timestamp="1601437435894">
+      <screen x="0" y="0" width="1366" height="718" />
+    </state>
+    <state x="264" y="0" width="838" height="1032" key="search.everywhere.popup/0.0.1366.718@0.0.1366.718" timestamp="1601437435894" />
+  </component>
+</project>
